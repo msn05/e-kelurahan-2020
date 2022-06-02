@@ -1,0 +1,10 @@
+{
+    "require": {
+        "firebase/php-jwt": "^5.3",
+        "izniburak/pdox": "^1.5",
+        "rakit/validation": "^1.4",
+        "guzzlehttp/guzzle": "^7.3",
+        "coffeecode/uploader": "^1.0",
+        "dompdf/dompdf": "^1.0"
+    }
+}
